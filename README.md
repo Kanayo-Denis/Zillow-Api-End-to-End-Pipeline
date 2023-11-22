@@ -31,4 +31,3 @@ As per google, Data orchestration is the process of moving siloed data from mult
 Apache Airflow is my choice of data orchestrator and It's the most popular option among data engineers. I will also be leaving my python file for airflow in my GitHub repo. To be able to interact with my .py or python file seamlessly, rather than use the nano command-line-text-editor that comes with the Linux on my airflow-Instance, I used a VS Code extension called remote-ssh to connect with my Airflow-instance through VS Code. This was where I designed my airflow DAGs. Before explaining what a DAG is, I'd first upload a screenshot of my finished pipeline on airflow.
 
 https://medium.com/dff700b2-990a-4568-92fc-f645bdf2a0fc
-![Alt text](image.png)
